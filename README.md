@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="apklinker-logo.png" alt="APKLinker app icon" width="160" />
+<img src="/apklinker-logo.png" alt="APKLinker app icon" width="160" />
 
 # APKLinker
 
@@ -8,12 +8,13 @@
 
 A lightweight Android utility by **Basic Touch Pro** for inspecting installed apps, extracting APK packages, uploading files to Gofile, and sharing download links with QR codes.
 
+[![Download APK](https://img.shields.io/badge/⬇%20Download-Latest%20APK-1688F0?style=for-the-badge&logo=android&logoColor=white)](https://github.com/BasicTouchPro/APKLinker/releases/latest/download/APKLinker.apk)
+
+[![All Releases](https://img.shields.io/badge/All-Releases-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BasicTouchPro/APKLinker/releases)
+
 [![Android](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)](#)
 [![Kotlin](https://img.shields.io/badge/Language-Kotlin-7F52FF?logo=kotlin&logoColor=white)](#)
 [![Jetpack Compose](https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white)](#)
-[![Developer](https://img.shields.io/badge/Developer-Basic%20Touch%20Pro-1688F0)](https://www.youtube.com/@BasicTouchPro)
-
-**[Download latest APK](../../releases/latest)** · **[All Releases](../../releases)** · **[Report an Issue](../../issues)**
 
 </div>
 
@@ -52,22 +53,17 @@ Feature availability depends on the installed build, Android version, file acces
 
 Screenshots will be added here as the app UI is finalized.
 
-## Download
+## Download & Install
 
-Get the latest available APK from GitHub Releases:
+Use the **Download Latest APK** button at the top of this page to download the newest published version directly. For this button to keep working after every release, attach the APK with the exact asset filename `APKLinker.apk` each time.
 
-- **Latest release:** [Download APK](../../releases/latest)
-- **All versions:** [View release history](../../releases)
+1. Tap **Download Latest APK**.
+2. Open the downloaded `APKLinker.apk` file.
+3. If Android asks, allow installation from that source.
+4. Review the requested permissions and install.
 
-### Install
+Only install APKs from this repository's official Releases. Android may display a warning when installing apps outside Google Play.
 
-1. Open the latest release.
-2. Download the APK asset attached to that release.
-3. Open the downloaded APK on your Android device.
-4. If Android asks, allow installation from that source.
-5. Review the requested permissions and install.
-
-Only install APKs from this repository's official Releases page. Android may display a warning when installing apps outside Google Play.
 
 ## How to Use
 
@@ -132,30 +128,24 @@ Do not upload or share applications unless you own them or have permission to re
 
 APKLinker is a file utility. Users are responsible for ensuring that they have the rights and authorization to extract, upload, and redistribute any APK or other file they share. Do not use the app to distribute malware, modified apps without authorization, copyrighted software unlawfully, or files that violate applicable laws or service terms.
 
-## Developer & Social Media
+## 🌐 Developer & Social Media
 
-Follow **Basic Touch Pro** on social media:
+<div align="center">
 
-<p align="center">
-  <a href="https://www.youtube.com/@BasicTouchPro">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube - BasicTouchPro" />
-  </a>
-  <a href="https://www.facebook.com/BasicTouchPro">
-    <img src="https://img.shields.io/badge/Facebook-Follow-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook - BasicTouchPro" />
-  </a>
-  <a href="https://t.me/BasicTouchPro">
-    <img src="https://img.shields.io/badge/Telegram-Join-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram - BasicTouchPro" />
-  </a>
-  <a href="https://github.com/BasicTouchPro">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - BasicTouchPro" />
-  </a>
-</p>
+<a href="https://www.youtube.com/@BasicTouchPro">
+  <img src="https://img.shields.io/badge/YouTube-BasicTouchPro-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+<a href="https://www.facebook.com/BasicTouchPro">
+  <img src="https://img.shields.io/badge/Facebook-BasicTouchPro-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="https://t.me/BasicTouchPro">
+  <img src="https://img.shields.io/badge/Telegram-BasicTouchPro-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+<a href="https://github.com/BasicTouchPro">
+  <img src="https://img.shields.io/badge/GitHub-BasicTouchPro-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-<p align="center">
-  **YouTube · Facebook · Telegram · GitHub**
-  <br />
-  <sub>All profiles use the username <strong>BasicTouchPro</strong>.</sub>
-</p>
+</div>
 
 ## Support
 
@@ -169,15 +159,3 @@ When reporting a bug, include your APKLinker version, Android version, device mo
 
 No open-source license has been specified yet. Unless a license file is added to this repository, all rights are reserved by the copyright holder. Do not assume that the source code or app may be reused, modified, or redistributed.
 
----
-
-<div align="center">
-
-**Made by Basic Touch Pro**
-
-[YouTube](https://www.youtube.com/@BasicTouchPro) ·
-[Facebook](https://www.facebook.com/BasicTouchPro) ·
-[Telegram](https://t.me/BasicTouchPro) ·
-[GitHub](https://github.com/BasicTouchPro)
-
-</div>
