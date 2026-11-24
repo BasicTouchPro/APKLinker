@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/apklinker-logo.png" alt="APKLinker app icon" width="160" />
+<img src="/apklinker-logo.png" alt="APKLinker app icon" width="160" />
 
 # APKLinker
 
