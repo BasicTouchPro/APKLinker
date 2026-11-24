@@ -8,7 +8,7 @@
 
 A lightweight Android utility by **Basic Touch Pro** for inspecting installed apps, extracting APK packages, uploading files to Gofile, and sharing download links with QR codes.
 
-[![Download APK](https://img.shields.io/badge/⬇%20Download-Latest%20APK-1688F0?style=for-the-badge&logo=android&logoColor=white)](https://github.com/BasicTouchPro/APKLinker/releases/latest/download/APKLinker.apk)
+[![Download APK](https://img.shields.io/badge/⬇%20Download-Latest%20APK-1688F0?style=for-the-badge&logo=android&logoColor=white)](https://github.com/BasicTouchPro/APKLinker/releases/download/v1.0.0/APKLinker-v1.0.0-release.apk)
 
 [![All Releases](https://img.shields.io/badge/All-Releases-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BasicTouchPro/APKLinker/releases)
 
