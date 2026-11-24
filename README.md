@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/apklinker-logo.png" alt="APKLinker app icon" width="160" />
+<img src="apklinker-logo.png" alt="APKLinker app icon" width="160" />
 
 # APKLinker
 
@@ -134,14 +134,28 @@ APKLinker is a file utility. Users are responsible for ensuring that they have t
 
 ## Developer & Social Media
 
-Follow **Basic Touch Pro**:
+Follow **Basic Touch Pro** on social media:
 
-| Platform | Link |
-|---|---|
-| YouTube | [@BasicTouchPro](https://www.youtube.com/@BasicTouchPro) |
-| Facebook | [BasicTouchPro](https://www.facebook.com/BasicTouchPro) |
-| Telegram | [@BasicTouchPro](https://t.me/BasicTouchPro) |
-| GitHub | [BasicTouchPro](https://github.com/BasicTouchPro) |
+<p align="center">
+  <a href="https://www.youtube.com/@BasicTouchPro">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube - BasicTouchPro" />
+  </a>
+  <a href="https://www.facebook.com/BasicTouchPro">
+    <img src="https://img.shields.io/badge/Facebook-Follow-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook - BasicTouchPro" />
+  </a>
+  <a href="https://t.me/BasicTouchPro">
+    <img src="https://img.shields.io/badge/Telegram-Join-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram - BasicTouchPro" />
+  </a>
+  <a href="https://github.com/BasicTouchPro">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - BasicTouchPro" />
+  </a>
+</p>
+
+<p align="center">
+  **YouTube · Facebook · Telegram · GitHub**
+  <br />
+  <sub>All profiles use the username <strong>BasicTouchPro</strong>.</sub>
+</p>
 
 ## Support
 
